@@ -1,0 +1,33 @@
+{
+  "name": "azores-check-balance",
+  "version": "1.0.1",
+  "description": "A Node.js module to check Ethereum wallet balance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azores-pelao/azores-check-balance.git"
+  },
+  "keywords": [
+    "azores-check-balance",
+    "ethereum",
+    "gas",
+    "balance",
+    "eth",
+    "crypto"
+  ],
+  "author": "azores-pelao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azores-pelao/azores-check-balance/issues"
+  },
+  "homepage": "https://github.com/azores-pelao/azores-check-balance#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "web3": "^1.5.2",
+    "azores-gas-convert": "1.0.0"
+
+  }
+}
